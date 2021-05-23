@@ -1,0 +1,4 @@
+For Ant and Bee dataset use
+
+!git clone https://github.com/jaddoescad/ants_and_bees.git
+!ls ants_and_bees/train
